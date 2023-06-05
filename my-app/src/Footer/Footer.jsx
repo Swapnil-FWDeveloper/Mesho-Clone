@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <Box>
       <Flex>
-        <Box>
+        <Box >
           <Heading margin={"auto"}>Shop Non-Stop on Meesho</Heading>
           <Box border={"2px solid red"} w={"25%"}>
             <Text fontSize="xl" textColor={"gray"}>
