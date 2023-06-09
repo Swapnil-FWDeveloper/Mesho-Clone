@@ -3,19 +3,20 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <Box>
+   <Box backgroundColor={"whitesmoke"} h={"300px"}  >
+     <Box>
       <Flex justifyContent={"space-evenly"}>
-        <Box>
-          <Text fontSize={"25px"} mr={"27px"}>
+        <Box border={'2px solid black'} w={'410px'}>
+          <Text fontSize={"25px"} mr={"100px"}   border={'2px solid red'}>
             Shop Non-Stop on Meesho
           </Text>
-          <Box w={"300px"} ml={"20px"} mt={"10px"}>
-            <Text fontSize="x" textColor={"gray"} textAlign={"start"}>
+          <Box w={"300px"} ml={"0px"} mt={"10px"} >
+            <Text fontSize="x" textColor={"gray"} textAlign={"start"}    border={'2px solid red'}>
               Trusted by more than 1 Crore Indians Cash on Delivery | Free
               Delivery
             </Text>
           </Box>
-          <Box marginTop={"20px"} w={"350px"} ml={"20px"}>
+          <Box marginTop={"20px"} w={"350px"} ml={"0px"}  border={'2px solid red'}>
             <Flex
               gap={"10px"}
               justifyContent={"flex-start"}
@@ -40,7 +41,7 @@ const Footer = () => {
             </Flex>
           </Box>
         </Box>
-        <Box textAlign={"start"} fontWeight={"20px"}>
+        <Box textAlign={"start"} fontWeight={"20px"}  w={"15%"} border={'2px solid red'}>
           <Text fontSize="20px" textColor={"gray"}>
             Careers
           </Text>
@@ -51,7 +52,7 @@ const Footer = () => {
             Hall of Fame
           </Text>
         </Box>
-        <Box textAlign={"start"}>
+        <Box textAlign={"start"} w={"15%"}  border={'2px solid red'}>
           <Text fontSize="xl" textColor={"gray"}>
             Legal and Policies
           </Text>
@@ -62,8 +63,8 @@ const Footer = () => {
             Notice and Returns
           </Text>
         </Box>
-        <Box>
-          <Text fontSize="xl" textColor={"black"}>
+        <Box   border={'2px solid red'} >
+          <Text fontSize="xl" textColor={"black"} >
             Reach out to us
           </Text>
           <Box w={"150px"} mt={"10px"}>
@@ -91,7 +92,7 @@ const Footer = () => {
             </Flex>
           </Box>
         </Box>
-        <Box textAlign={"start"}>
+        <Box textAlign={"start"}   border={'2px solid red'}>
           <Text fontSize="xl" color={"black"}>
             Careers
           </Text>
@@ -108,6 +109,7 @@ const Footer = () => {
        
       </Flex>
     </Box>
+   </Box>
   );
 };
 
