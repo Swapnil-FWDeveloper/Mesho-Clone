@@ -1,8 +1,9 @@
+import { Box } from '@chakra-ui/react'
 import React from 'react'
 
 const Privateroutes = () => {
   return (
-    <div>Privateroutes</div>
+    <Box>Privateroutes</Box>
   )
 }
 

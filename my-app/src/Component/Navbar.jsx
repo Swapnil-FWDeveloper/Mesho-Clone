@@ -5,15 +5,19 @@ import { AiOutlineShoppingCart, IconName } from "react-icons/ai";
 const Navbar = () => {
   return (
     <Box>
-      <Flex>
+      <Flex justifyContent={'space-evenly'}>
         <Box>
-          <Text>meesho</Text>
+          <Flex>
+          <Text fontSize={'xxx-large'} color={'blue'} fontFamily={"revert-layer"}></Text>
           <Input placeholder="search your favroutes items" w={"20rem"} />
+          </Flex>
         </Box>
         <Box>
-          <Text>Download App</Text> |<Text>Become Sailer</Text>|
+         <Flex justifyContent={'space-between'}>
+         <Text>Download App</Text> |<Text>Become Sailer</Text>|
           <Icon as={AiOutlineShoppingCart} />
           <Text>Download App</Text>|<Text>Become Sailer</Text>
+         </Flex>
         </Box>
       </Flex>
     </Box>

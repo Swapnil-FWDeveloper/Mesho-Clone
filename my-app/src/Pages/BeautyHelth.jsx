@@ -1,10 +1,10 @@
 import { Box } from '@chakra-ui/react'
 import React from 'react'
 
-const Login = () => {
+const BeautyHelth = () => {
   return (
-    <Box>Login</Box>
+    <Box>BeautyHelth</Box>
   )
 }
 
-export default Login
+export default BeautyHelth

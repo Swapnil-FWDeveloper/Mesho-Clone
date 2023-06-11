@@ -1,10 +1,10 @@
 import { Box } from '@chakra-ui/react'
 import React from 'react'
 
-const Login = () => {
+const Errorpage = () => {
   return (
-    <Box>Login</Box>
+    <Box>Errorpage</Box>
   )
 }
 
-export default Login
+export default Errorpage
