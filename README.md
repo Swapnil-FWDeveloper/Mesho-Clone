@@ -2,19 +2,15 @@
 
 Meesho is a social commerce platform that undertakes retail distribution, enabling small retail merchants to connect and sell their products effectively via social media channels.
 
-# Video Link
+# Deployed link to the Website
 
-> [Video URL](https://drive.google.com/file/d/1cuQnsBNQC-BbOWcZKwXOxwJxXbh_ozLM/view)
-
-# Deployed link of the Website
-
-> [https://meesho-website-clone.netlify.app/](https://meesho-website-clone.netlify.app/)
-
+https://mesho-clone-8aucwjzn1-swapnil-fwdeveloper.vercel.app/
 # Created With
 
-1. CSS | Styled Components
-2. JavaScript | Rest Api
-3. React JS | Redux
+1. JavaScript | Rest API
+2. React JS | Redux
+3. CSS | Styled Component
+
 
 # Features
 
@@ -29,5 +25,7 @@ Meesho is a social commerce platform that undertakes retail distribution, enabli
 3. Product Page
 
    ![Product](https://i.imgur.com/VlUxeVG.png)
+   
+   ##And many more 
    
    
