@@ -9,7 +9,8 @@ https://mesho-clone-8aucwjzn1-swapnil-fwdeveloper.vercel.app/
 
 1. JavaScript | Rest API
 2. React JS | Redux
-3. CSS | Styled Component
+3. Material UI
+4. CSS | Styled Component
 
 
 # Features
