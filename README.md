@@ -26,7 +26,14 @@ https://mesho-clone-8aucwjzn1-swapnil-fwdeveloper.vercel.app/
 3. Product Page
 
    ![Product](https://i.imgur.com/VlUxeVG.png)
+ 
    
-   ##And many more 
-   
-   
+   # Features of the website
+   1. Responsive Landing Page with Footer
+   2. Fully Responsive Product Pages
+   3. Advanced Sort, Filter, and Search Functionality
+   4. Secure Login Functionality
+   5. User-friendly Shopping Cart
+   6. Secure Payment Processing
+   7. Efficient Routing
+ 
