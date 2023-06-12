@@ -1,0 +1,23 @@
+.active-btn {
+  background-color: #f43397 !important;
+  color: #fff !important;
+}
+.btns {
+  color: #f43397;
+  margin: 0 15px !important;
+}
+#sort-btns {
+  width: fit-content;
+  float: right;
+  display: flex;
+}
+#sort-btns button {
+  background-color: #fff;
+  color: #f43397;
+  border: 1px solid #f43397;
+  padding: 5px 10px;
+  font-size: 11px;
+  margin: 0 10px;
+  border-radius: 4px;
+  font-weight: 500;
+}
